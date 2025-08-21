@@ -1,16 +1,35 @@
-## Hi there 👋
+# Md Usama Alam Ridwane
 
-<!--
-**12usama/12usama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.ibb.co.com/hJVQhxK5/Web-Developer.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=10000&color=F72B92&center=true&vCenter=true&lines=Hi+👋,+I'm+Md.+Usama+Alam+Ridwane" alt="Typing SVG" />
+</h1>
+<h3 align="left">Software Engineer | Web Developer | JavaScript Enthusiast</h3>
+
+🌱 I’m currently learning **MERN Stack & Machine Learning**  
+💬 Ask me about **React, Node.js, and Web Development**  
+📫 Reach me at: **usamaalam3999@gmail.com**  
+
+
+## 🚀 Featured Projects
+
+- [Job Portal](https://job-portal-client-one-rust.vercel.app/) - MERN Stack based job search and application platform
+- [EntSeeker](https://entseeker.vercel.app/) - Entertainment platform with movies, sports, and more 
+- [CarZone](https://carzone-client.vercel.app/) - Car selling platform with Firebase Authentication
+
+
+## 🛠️ Skills
+- Frontend: React, TailwindCSS, JavaScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: Git, GitHub, Vercel  
+
+  
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/md-usama-alam-ridwane-376b3a1a4/)
+
+
+
+
