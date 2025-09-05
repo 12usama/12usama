@@ -17,8 +17,9 @@ A passionate **MERN Stack Developer** with a keen interest in **Machine Learning
 - Implement dynamic functionality, REST APIs, and smooth user experiences  
 
 🚀 **Portfolio:**  
-Check out my work and projects here: [My Portfolio](https://my-portfolio-nu-tawny-56.vercel.app/)
-📫 Reach me at: **usamaalam3999@gmail.com**  
+[My Portfolio](https://my-portfolio-nu-tawny-56.vercel.app/)
+
+## 📫 Reach me at: **usamaalam3999@gmail.com**  
 
 
 ## 🚀 Featured Projects
