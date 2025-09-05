@@ -16,11 +16,9 @@ A passionate **MERN Stack Developer** with a keen interest in **Machine Learning
 - Design responsive UI with **TailwindCSS** and **DaisyUI**  
 - Implement dynamic functionality, REST APIs, and smooth user experiences  
 
-🚀 **Portfolio:**  
-[My Portfolio](https://my-portfolio-nu-tawny-56.vercel.app/)
+🚀 **Portfolio:** [Md. Usama Alam Ridwane – Portfolio](https://my-portfolio-nu-tawny-56.vercel.app/)
 
 ## 📫 Reach me at: **usamaalam3999@gmail.com**  
-
 
 ## 🚀 Featured Projects
 
@@ -28,13 +26,11 @@ A passionate **MERN Stack Developer** with a keen interest in **Machine Learning
 - [EntSeeker](https://entseeker.vercel.app/) - Entertainment platform with movies, sports, and more 
 - [CarZone](https://carzone-client.vercel.app/) - Car selling platform with Firebase Authentication
 
-
 ## 🛠️ Skills
 - Frontend: React, TailwindCSS, JavaScript  
 - Backend: Node.js, Express.js  
 - Database: MongoDB  
 - Tools: Git, GitHub, Vercel  
-
   
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/md-usama-alam-ridwane-376b3a1a4/)
