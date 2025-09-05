@@ -16,7 +16,9 @@ A passionate **MERN Stack Developer** with a keen interest in **Machine Learning
 - Design responsive UI with **TailwindCSS** and **DaisyUI**  
 - Implement dynamic functionality, REST APIs, and smooth user experiences  
 
+**My Portfolio**
 🚀 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-nu-tawny-56.vercel.app/)
+
 
 ## 📫 Reach me at: **usamaalam3999@gmail.com**  
 
