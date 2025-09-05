@@ -8,8 +8,16 @@
 </h1>
 <h3 align="left">Software Engineer | Web Developer | JavaScript Enthusiast</h3>
 
-🌱 I’m currently learning **MERN Stack & Machine Learning**  
-💬 Ask me about **React, Node.js, and Web Development**  
+👋 Hi, I’m **Md. Usama Alam Ridwane**  
+A passionate **MERN Stack Developer** with a keen interest in **Machine Learning**. I build responsive and modern web applications with a focus on clean code, performance, and user experience.  
+
+💼 **What I Do:**  
+- Develop full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**  
+- Design responsive UI with **TailwindCSS** and **DaisyUI**  
+- Implement dynamic functionality, REST APIs, and smooth user experiences  
+
+🚀 **Portfolio:**  
+Check out my work and projects here: [My Portfolio](https://my-portfolio-nu-tawny-56.vercel.app/)
 📫 Reach me at: **usamaalam3999@gmail.com**  
 
 
